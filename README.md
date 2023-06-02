@@ -33,11 +33,11 @@ This repository contains a script that allows you to generate daily Git commits 
   Replace /path/to/your/application.app with the desired absolute path for the application.
 
 7. Configure the application for automatic startup:
-  Go to System Preferences on your MacBook.
-  Select "Users & Groups" or "Accounts".
-  Choose your username from the left column.
-  Go to the "Login Items" tab.
-  Click the "+" button to add your application to the list of startup applications.
+- Go to System Preferences on your MacBook.
+- Select "Users & Groups" or "Accounts".
+- Choose your username from the left column.
+- Go to the "Login Items" tab.
+- Click the "+" button to add your application to the list of startup applications.
 
 
 
