@@ -13,7 +13,7 @@ This repository contains a script that allows you to generate daily Git commits 
    gh repo clone DjDc31/auto-repo
    ```
 
-3. Create [a private repository](https://github.com/new) called `auto-push` in your GitHub or GitLab account.
+3. Create [a private repository](https://github.com/new) called `auto-repo` in your GitHub or GitLab account.
 
 4. Open the `exc.rb` file and update the code:
    - Set the appropriate directory path in the script.
