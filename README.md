@@ -4,6 +4,8 @@
 
 This repository contains a script that allows you to generate daily Git commits automatically on macOS. By following the steps below, you can create an application that will push empty commits to your GitHub or GitLab repository, giving the appearance of daily activity on your commit graph.
 
+<img src="https://ibb.co/TL5YHPw" alt="How it works" />
+
 ## How to Use 🧑‍💻
 
 1. Prerequisites: Make sure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Ruby](https://www.ruby-lang.org/en/documentation/installation/) installed on your machine.
