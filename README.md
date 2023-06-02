@@ -10,7 +10,7 @@ This repository contains a script that allows you to generate daily Git commits 
 
 2. Clone this repository to your macOS machine:
    ```shell
-   git clone <repository_url>
+   gh repo clone DjDc31/auto-repo
    ```
 
 3. Create [a private repository](https://github.com/new) called `auto-push` in your GitHub or GitLab account.
