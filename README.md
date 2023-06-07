@@ -1,4 +1,4 @@
-# Generate Daily Git Commits on macOS
+# Generate Git Commits on macOS, Each Time you Start your Mac.
 
 ## Introduction
 
